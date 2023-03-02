@@ -7,12 +7,12 @@ At the basis of the project, there is the Minizinc language, therefore it is nec
 The system offers a browser view of the developed tree and generates PDF reports of the demonstration steps.
 
 --REQUIREMENTS--
--Linux environment
--Python programming language
--Minizinc Python- Python interface for Minizinc https://minizinc-python.readthedocs.io/en/latest/getting_started.html
--The following Python libraries must also be installed on the system (always available with pip):
-    -Pyvis
-    -fpdf
-    -imgkit
-    -tkinter
+- Linux environment
+- Python programming language
+- Minizinc Python- Python interface for Minizinc https://minizinc-python.readthedocs.io/en/latest/getting_started.html
+- The following Python libraries must also be installed on the system (always available with pip):
+    - Pyvis
+    - fpdf
+    - imgkit
+    - tkinter
 
