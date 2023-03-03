@@ -10,9 +10,12 @@ The system offers a browser view of the developed tree and generates PDF reports
 - Linux environment
 - Python programming language
 - Minizinc Python- Python interface for Minizinc https://minizinc-python.readthedocs.io/en/latest/getting_started.html
-- The following Python libraries must also be installed on the system (always available with pip):
+- The following Python libraries:
     - Pyvis
     - fpdf
     - imgkit
     - tkinter
+
+  as for now you need to install these on your system via pip. For example,
+      pip install fpdf 
 

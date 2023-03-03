@@ -1,0 +1,16 @@
+python main.py 
+Scelta: 4
+Quanti nodi figli vuoi creare? 1
+Scelta: 3
+Figli del Nodo numero 1
+2
+Scegli figlio: 2
+Scelta: 1
+Dimmi l'assegnamento da aggiungere al nodo: constraint color[1] = 1
+Scelta: 4
+Quanti nodi figli vuoi creare? 3
+Scelta: 3
+Scegli figlio: 3
+Scelta: 1
+Dimmi l'assegnamento da aggiungere al nodo: constraint color[2] = 2    
+
